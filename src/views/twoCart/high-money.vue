@@ -3,8 +3,8 @@
 		<!-- <img class="showBg" src="../../assets/vehicle/showBg.jpg" alt=""> -->
 		<img class="imgBg" src="../../assets/vehicle/imgBg.jpg" alt="">
 		<div class="content">
-			<img class="imgWord1" src="../../assets/vehicle/imgWord1_3_1.png" alt="">
-			<img class="imgWord2" src="../../assets/vehicle/imgWord2.png" alt="">
+			<img class="imgWord1" src="../../assets/vehicle/imgWord1.png" alt="">
+			<img class="imgWord2" src="../../assets/vehicle/imgWord2_2_1.png" alt="">
 			<img class="imgWord3" src="../../assets/vehicle/imgWord2_1_1.png" alt="">
 			<div class="contPic">
 				<img class="bigImg" src="../../assets/vehicle/contImg2_1.png" alt="">
@@ -67,7 +67,7 @@
 		text-align: left;
 	}
 	.imgWord1{
-		width: 0.97rem;
+		width: 1.46rem;
 		height: 0.48rem;
 		margin-left: 3.05rem;
 		margin-top: 0.05rem;
