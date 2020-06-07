@@ -1,0 +1,44 @@
+@keyframes arrowMc {
+	from {
+		transform: translateY(0vw);
+	}
+
+	to {
+		transform: translateY(-4vw);
+	}
+}
+
+@-webkit-keyframes arrowMc {
+	from {
+		transform: translateY(0vw);
+	}
+
+	to {
+		transform: translateY(-4vw);
+	}
+}
+@keyframes fadein{
+    0%{opacity:0;}
+    100%{opacity:1;}
+}
+@-webkit-keyframes fadein{
+    0%{opacity:0;}
+    100%{opacity:1;}
+}
+@keyframes rotate{
+    0%{transform:rotate(0deg);}
+    100%{transform:rotate(360deg);}
+}
+@-webkit-keyframes rotate{
+    0%{transform:rotate(0deg);}
+    100%{transform:rotate(360deg);}
+}
+
+@keyframes enterMc{
+    0%{opacity:0;transform:translateX(20vw);}
+    100%{opacity:1;transform:translateX(0vw);}
+}
+@-webkit-keyframes enterMc{
+    0%{opacity:0;transform:translateX(20vw);}
+    100%{opacity:1;transform:translateX(0vw);}
+}
